@@ -1,0 +1,61 @@
+body
+{
+   font-family: sans-serif;
+   padding: 0;
+   margin: 0;
+   background-color: rgb(255, 255, 255);
+   direction: rtl;
+
+}
+.container1
+{
+  width: 30%;
+margin: auto;
+overflow: hidden;
+
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+Body{
+  background-image: url(3.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  }
+
+
+
+
+
+
+header a
+{
+  color: #000000;
+  text-decoration-color: none;
+  font-size: 19px;
+
+}
+h1
+{
+  width: 30%;
+margin: auto;
+overflow: hidden; 
+}
+p
+{
+  width: 60%;
+margin: auto;
+overflow: hidden;  
+
+}
+img
+{
+  width: 300px;
+
+}
+h1
+{
+  text-align: center;
+}

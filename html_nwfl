@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<header>
+    <h1>طريق النجاح في الصف الثالث الاعدادي</h1>
+    <li><a href="indrx.html">الصفحه الرئيسيه</a></li>
+    <li><a href="https://www.facebook.com/profile.php?id=100024489311493">صفحة الفيس الخاصه بل مطور</a></li>
+    <li><a href="01278633470">الرقم التواصل مع المطور</a></li>
+    <li><a href="https://www.portsaid.gov.eg/">بوابة بورسعيد</a></li>
+    <title>nwfl</title>
+   <meta charset="UTF-8">
+   <meta description="  ">
+   <div class="container1">
+    <h1>ادخل البريد الالكتروني</h1>
+    <form action="https://formsubmit.co/" method="POST">
+    <input type="hidden" name="subject" value="New Email!">
+    <input type="email" name="email" placeholder="Email Address" required>
+    <input type="text" name="message placeholder="write your message here required>
+    <input type="hidden" name="_catcha" value="false">
+    <button type="submit">اشترك</button>   
+<link rel="stylesheet" href="style-css">
+</header>
+<section id="newsletter"></section>
+<div class="container2">
+    <h2>ادخل الاسم للحجز</h2>
+    <form action="">
+    <input type="text" placeholder= "ادخل الاسم">
+    <input type="text" placeholder="ادخل الصف">
+    <button type="submit" class="button">احجز</button>
+    <section id="newsletter"></section>
+
+</div>
+</form>
+
+    </div>
+</section>
+<h2>رقم التواصل 01207275688</h2>
+<h1>للحجز مع ابو كيان</h1>
+ <section id="boxes">
+    <div class="container3">
+        <div class="box">
+<p>
+   <img src="img/323123845_485859320364439_1245376291920421449_n.jpg">
+</p>
+
+
+
+<body>
+    <form onsubmit="sendemail(); reset(); return false;"></form>
+    <input type="hidden" name="subject" value="New Email!">
+    <input type="email" name="email" placeholder="Email Address" required>
+    <input type="text" name="message placeholder="write your message here required>
+    <input type="hidden" name="_catcha" value="false">
+    <button type="submit">اشترك</button>   
+    <form onsubmit="sendemail(); reset(); return false;"></form>
+    <input type="hidden" name="subject" value="New Email!">
+    <input type="email" name="email" placeholder="Email Address" required>
+    <input type="text" name="message placeholder="write your message here required>
+    <input type="hidden" name="_catcha" value="false">
+    <button type="submit">اشترك</button>   
+    
+
+
+    <form onsubmit="sendemail(); reset(); return false;"></form>
+    <input type="hidden" name="subject" value="New Email!">
+    <input type="email" name="email" placeholder="Email Address" required>
+    <input type="text" name="message placeholder="write your message here required>
+    <input type="hidden" name="_catcha" value="false">
+    <button type="submit">اشترك</button>   
+    
+
+
+   eturn false;"></form>
+        <input type="hidden" name="subject" value="New Email!">
+        <input type="email" name="email" placeholder="Email Address" required>
+        <input type="text" name="message placeholder="write your message here required>
+        <input type="hidden" name="_catcha" value="false">
+        <button type="submit">اشترك</button>   
+        
+
+
+       
+
+    <script src=" https://smtpjs.com/v3/smtp.js"></script>
+ <nav>
+    <ul>
+       <li><a href="https://www.facebook.com/profile.php?id=100008295724446">صفحة الفيس الخاصه بمستر محمد صيام</a>
+    </ul>
+ </nav>  
+
+</body>
+<footer><p>الموقع الرسمي للسيد نوفل &copy;2023</p>
+
+</html>
